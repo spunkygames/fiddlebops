@@ -1,6 +1,6 @@
 # Fiddlebops
 
-Unleash your inner musician with Fiddlebops! This charming and innovative musical toy, brought to you by [Spunky Game](https://spunky.games), lets you create catchy tunes and explore the world of sound. Experiment with different instruments, rhythms, and melodies to compose your own musical masterpieces. Play Now:[Fiddlebops](https://github.com/spunkygames/fiddlebops)
+Unleash your inner musician with Fiddlebops! This charming and innovative musical toy, brought to you by [Spunky Game](https://spunky.games), lets you create catchy tunes and explore the world of sound. Experiment with different instruments, rhythms, and melodies to compose your own musical masterpieces. Play Now:[Fiddlebops](https://spunky.games/fiddlebops)
 
 ---
 
